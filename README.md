@@ -3,6 +3,7 @@
 
 - 👀 I’m interested in Go
 - 🥅 Goals: Git Gud
+- Currently active profesionally as https://github.com/samsirka
 
 ### Connect with me:
 
