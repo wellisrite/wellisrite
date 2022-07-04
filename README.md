@@ -4,6 +4,7 @@
 - 👀 I’m interested in Go
 - 🥅 Goals: Git Gud
 - Currently active profesionally as https://github.com/samsirka
+- An active contributor of https://github.com/Gebes/there
 
 ### Connect with me:
 
