@@ -5,6 +5,7 @@
 - 🥅 Goals: Git Gud
 - Currently active profesionally as https://github.com/samsirka
 - An active contributor of https://github.com/Gebes/there
+- Hire me on https://www.upwork.com/freelancers/~01d6b941d1dbaa55bf/
 
 ### Connect with me:
 
