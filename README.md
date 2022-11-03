@@ -3,6 +3,7 @@
 
 - 👀 I’m interested in Go
 - 🥅 Goals: Git Gud
+- Personal Website: http://wellisrite-site.herokuapp.com/
 - Currently active profesionally as https://github.com/samsirka
 - An active contributor of https://github.com/Gebes/there
 - Hire me on https://www.upwork.com/freelancers/~01d6b941d1dbaa55bf/
